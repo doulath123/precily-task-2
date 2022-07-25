@@ -1,0 +1,15 @@
+.Updatebutton{
+   margin: 5%;
+
+}
+.Updateinput{
+    border: 2px solid gray;
+    margin: 5%;
+    border-radius: 5px;
+    padding: 2%;
+    width: 80%;
+    
+}
+.updatecomponent{
+  margin: 20%;
+}

@@ -1,0 +1,13 @@
+.data{
+    margin: 15%;
+}
+.Addbutton{
+    margin: 5%;
+}
+.Addinput{
+    border: 2px solid gray;
+    margin: 5%;
+    border-radius: 5px;
+    padding: 2%;
+    width: 80%;
+}
